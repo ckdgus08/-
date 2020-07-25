@@ -1,6 +1,7 @@
 package com.tistory.ckdgus0808.repository;
 
 import com.tistory.ckdgus0808.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 

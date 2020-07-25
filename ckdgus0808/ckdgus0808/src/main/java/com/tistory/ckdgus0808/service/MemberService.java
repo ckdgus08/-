@@ -3,6 +3,8 @@ package com.tistory.ckdgus0808.service;
 import com.tistory.ckdgus0808.domain.Member;
 import com.tistory.ckdgus0808.repository.MemberRepository;
 import com.tistory.ckdgus0808.repository.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
