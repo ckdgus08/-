@@ -4,6 +4,7 @@ import com.tistory.ckdgus0808.domain.Member;
 import com.tistory.ckdgus0808.repository.MemoryMemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
+import org.springframework.test.annotation.Commit;
 
 import java.util.List;
 
